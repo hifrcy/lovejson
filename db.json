@@ -1,118 +1,135 @@
 {
   "posts": [
- {
-    "titanic": [
+ 	
                 {
                   "id": 1,
                   "title": "grease",
-                  "url": "itRFjzQICJU&feature=youtu.be&t=20"
+                  "url": "itRFjzQICJU&feature=youtu.be&t=20",
+                  "theme": "titanic"
                 },
                 {
                   "id": 2,
                   "title": "loveboat",
-                  "url": "2ScJeVHkDRg&feature=youtu.be&t=7"
+                  "url": "2ScJeVHkDRg&feature=youtu.be&t=7",
+                  "theme": "titanic"
                 },
                 {
                   "id": 3,
                   "title": "kiss",
-                  "url": "zlSFmotba2I&feature=youtu.be&t=63"
+                  "url": "zlSFmotba2I&feature=youtu.be&t=63",
+                  "theme": "titanic"
                 },
                 {
                   "id": 4,
                   "title": "titanic",
-                  "url": "DNyKDI9pn0Q&feature=youtu.be&t=146"
+                  "url": "DNyKDI9pn0Q&feature=youtu.be&t=146",
+                  "theme": "titanic"
                 }
-              ],
+    
 
-    "shrek":   [
+ 
                   {
                   "id": 5,
                   "title": "hello",
-                  "url": "itRFjzQICJU&feature=youtu.be&t=20"
+                  "url": "itRFjzQICJU&feature=youtu.be&t=20",
+                  "theme": "shrek"
                 },
                 {
                   "id": 6,
                   "title": "hello",
-                  "url": "itRFjzQICJU&feature=youtu.be&t=20"
+                  "url": "itRFjzQICJU&feature=youtu.be&t=20",
+                  "theme": "shrek"
                 },
                 {
                   "id": 7,
                   "title": "hello",
-                  "url": "itRFjzQICJU&feature=youtu.be&t=20"
+                  "url": "itRFjzQICJU&feature=youtu.be&t=20",
+                  "theme": "shrek"
                 },
                 {
                   "id": 8,
                   "title": "hello",
-                  "url": "itRFjzQICJU&feature=youtu.be&t=20"
+                  "url": "itRFjzQICJU&feature=youtu.be&t=20",
+                  "theme": "shrek"
                 }
-                ],
-   "smith":    [
+               
+  
                 {
                   "id": 9,
                   "title": "hello",
-                  "url": "itRFjzQICJU&feature=youtu.be&t=20"
+                  "url": "itRFjzQICJU&feature=youtu.be&t=20",
+                  "theme": "smith"
                 },
                 {
                   "id": 10,
                   "title": "hello",
-                  "url": "itRFjzQICJU&feature=youtu.be&t=20"
+                  "url": "itRFjzQICJU&feature=youtu.be&t=20",
+                  "theme": "smith"
                 },
                 {
                   "id": 11,
                   "title": "hello",
-                  "url": "itRFjzQICJU&feature=youtu.be&t=20"
+                  "url": "itRFjzQICJU&feature=youtu.be&t=20",
+                  "theme": "smith"
                 },
                 {
                   "id": 12,
                   "title": "hello",
-                  "url": "itRFjzQICJU&feature=youtu.be&t=20"
+                  "url": "itRFjzQICJU&feature=youtu.be&t=20",
+                  "theme": "smith"
                 }
-              ],
-    "friends":[
+     
+    
                 {
                   "id": 13,
                   "title": "hello",
-                  "url": "itRFjzQICJU&feature=youtu.be&t=20"
+                  "url": "itRFjzQICJU&feature=youtu.be&t=20",
+                  "theme": "friends"
                 },
                 {
                   "id": 14,
                   "title": "hello",
-                  "url": "itRFjzQICJU&feature=youtu.be&t=20"
+                  "url": "itRFjzQICJU&feature=youtu.be&t=20",
+                  "theme": "friends"
                 },
                 {
                   "id": 15,
                   "title": "hello",
-                  "url": "itRFjzQICJU&feature=youtu.be&t=20"
+                  "url": "itRFjzQICJU&feature=youtu.be&t=20",
+                  "theme": "friends"
                 },
                 {
                   "id": 16,
                   "title": "hello",
-                  "url": "itRFjzQICJU&feature=youtu.be&t=20"
+                  "url": "itRFjzQICJU&feature=youtu.be&t=20",
+                  "theme": "friends"
                 }
-              ],
-    "star":   [
+              
+
                 {
                   "id": 17,
                   "title": "hello",
-                  "url": "itRFjzQICJU&feature=youtu.be&t=20"
+                  "url": "itRFjzQICJU&feature=youtu.be&t=20",
+                  "theme": "star"
                 },
                 {
                   "id": 18,
                   "title": "hello",
-                  "url": "itRFjzQICJU&feature=youtu.be&t=20"
+                  "url": "itRFjzQICJU&feature=youtu.be&t=20",
+                  "theme": "star"
                 },
                 {
                   "id": 19,
                   "title": "hello",
-                  "url": "itRFjzQICJU&feature=youtu.be&t=20"
+                  "url": "itRFjzQICJU&feature=youtu.be&t=20",
+                  "theme": "star"
                 },
                 {
                   "id": 20,
                   "title": "hello",
-                  "url": "itRFjzQICJU&feature=youtu.be&t=20"
+                  "url": "itRFjzQICJU&feature=youtu.be&t=20",
+                  "theme": "star"
                 }
-              ]
-        }
       ],
     "profile": {
         "name": "typicode"
