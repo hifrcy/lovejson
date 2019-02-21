@@ -24,11 +24,8 @@
                   "title": "titanic",
                   "url": "DNyKDI9pn0Q&feature=youtu.be&t=146",
                   "theme": "titanic"
-                }
-    
-
- 
-                  {
+                },
+                {
                   "id": 5,
                   "title": "hello",
                   "url": "itRFjzQICJU&feature=youtu.be&t=20",
@@ -51,9 +48,7 @@
                   "title": "hello",
                   "url": "itRFjzQICJU&feature=youtu.be&t=20",
                   "theme": "shrek"
-                }
-               
-  
+                }, 
                 {
                   "id": 9,
                   "title": "hello",
@@ -77,9 +72,7 @@
                   "title": "hello",
                   "url": "itRFjzQICJU&feature=youtu.be&t=20",
                   "theme": "smith"
-                }
-     
-    
+                },
                 {
                   "id": 13,
                   "title": "hello",
@@ -103,9 +96,7 @@
                   "title": "hello",
                   "url": "itRFjzQICJU&feature=youtu.be&t=20",
                   "theme": "friends"
-                }
-              
-
+                },
                 {
                   "id": 17,
                   "title": "hello",
